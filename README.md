@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm JP. I started programming in 1983. 👨 🇧🇷
 
-<!--
-**jpbarbosa/jpbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Timeline](images/timeline.png)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I work at [JP7](https://www.jp7.com.br).
+- 🌱 I’m currently improving my React skills with TypeScript.
+- 👯 I’m looking to collaborate on projects to teach people programming skills.
+- 🤔 I’m looking for help to refactor a large legacy codebase. ☠️
+- 💬 Ask me about how to [set up a basic CRUD app using React with TypeScript]([https://link](https://github.com/jp7internet/typescript-crud)).
+- 📫 How to reach me: https://www.linkedin.com/in/joaopedrobarbosa/
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I started learning basic 日本語 in 2020. 🇯🇵
