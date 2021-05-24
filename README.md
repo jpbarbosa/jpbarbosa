@@ -1,4 +1,4 @@
-### Hi there, I'm JP. I started programming in the mid-1980s. 👨🇷
+### Hi there, I'm JP. I started programming in the mid-1980s. 👨
 
 ![Timeline](images/timeline.png)
 
