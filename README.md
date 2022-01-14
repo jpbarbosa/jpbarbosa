@@ -2,6 +2,7 @@
 
 ![Timeline](images/timeline.png)
 
+- 💻 GitHub Pages: https://jpbarbosa.github.io
 - 🔭 I work at [JP7](https://www.jp7.com.br).
 - 🌱 I’m currently improving my React skills with TypeScript.
 - 👯 I’m looking to collaborate on projects to teach people programming skills.
