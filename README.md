@@ -10,4 +10,4 @@
 - 💬 Ask me about how to [set up a basic CRUD app using React with TypeScript](https://github.com/jp7internet/typescript-crud).
 - 📫 How to reach me: https://www.linkedin.com/in/joaopedrobarbosa/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I started learning basic 日本語 in 2020. 🇯🇵
+- ⚡ Fun fact: I started learning basic [日本語](https://github.com/jpbarbosa/japan) in 2020. 🇯🇵
