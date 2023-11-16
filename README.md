@@ -1,6 +1,6 @@
 ### Hi there, I'm JP. I started programming in the mid-1980s. 👨
 
-![Timeline](images/timeline.png)
+![Timeline](images/timeline.svg)
 
 - 💻 GitHub Pages: https://jpbarbosa.github.io
 - 🔭 I work at [JP7](https://www.jp7.com.br) and at [Toptal](https://www.toptal.com/resume/jp-barbosa).

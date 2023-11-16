@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="530px" height="210px" viewBox="0 0 530 210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-45, -195)">
+            <g id="Group" transform="translate(45, 195)">
+                <rect id="Rectangle" x="0" y="0" width="530" height="210"></rect>
+                <g id="Legacy-Mode" opacity="0" transform="translate(510, 105)">
+                    <text id="Legacy" transform="translate(12.5, 17.5) rotate(-90) translate(-12.5, -17.5)" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#00CCCC">
+                        <tspan x="-2" y="20">Legacy</tspan>
+                    </text>
+                    <path d="M0.5,0.5 L4.5,0.5 M4.5,0.5 L4.5,34.5 M4.5,34.5 L0.5,34.5" id="Combined-Shape" stroke-opacity="0.5" stroke="#808080" stroke-linecap="square"></path>
+                </g>
+                <g id="Current-Focus" transform="translate(510.5, 25.5)">
+                    <text id="Focus" transform="translate(12, 27) rotate(-90) translate(-12, -27)" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#0099FF">
+                        <tspan x="-0.041015625" y="29.5">Focus</tspan>
+                    </text>
+                    <path d="M0,0 L4,0 M4,0 L4,54 M4,54 L0,54" id="Combined-Shape" stroke-opacity="0.5" stroke="#808080" stroke-linecap="square"></path>
+                </g>
+                <g id="Decades" transform="translate(5, 5)">
+                    <g id="Decade" transform="translate(400, 0)">
+                        <g id="Group" transform="translate(0, 14)">
+                            <rect id="Rectangle" x="0" y="1" width="100" height="185"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="0" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="10" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="20" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="30" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="40" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="50" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="60" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="70" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="80" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="90" y="0.65034965" width="10" height="185.34965"></rect>
+                            <line x1="0.5" y1="0.325174825" x2="0.5" y2="185.674825" id="Line" stroke="#808080" opacity="0.5" stroke-linecap="square"></line>
+                            <line x1="1.5" y1="0.325174825" x2="99.5" y2="0.325174825" id="Line-2" stroke="#808080" opacity="0.5" stroke-linecap="square"></line>
+                        </g>
+                        <g id="Group-2">
+                            <text id="80s" font-family="Menlo-Regular, Menlo" font-size="9" font-weight="normal" fill="#0099FF">
+                                <tspan x="36.4538574" y="8">2020s</tspan>
+                            </text>
+                            <line x1="0.5" y1="0.5" x2="0.5" y2="13.5" id="Line" stroke="#808080" opacity="0.5" stroke-linecap="square"></line>
+                        </g>
+                    </g>
+                    <g id="Decade" transform="translate(300, 0)">
+                        <g id="Group" transform="translate(0, 14)">
+                            <rect id="Rectangle" x="0" y="1" width="100" height="185"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="0" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="10" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="20" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="30" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="40" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="50" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="60" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="70" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="80" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="90" y="0.65034965" width="10" height="185.34965"></rect>
+                            <line x1="0.5" y1="0.325174825" x2="0.5" y2="185.674825" id="Line" stroke="#808080" opacity="0.5" stroke-linecap="square"></line>
+                            <line x1="1.5" y1="0.325174825" x2="99.5" y2="0.325174825" id="Line-2" stroke="#808080" opacity="0.5" stroke-linecap="square"></line>
+                        </g>
+                        <g id="Group-2">
+                            <text id="80s" font-family="Menlo-Regular, Menlo" font-size="9" font-weight="normal" fill="#00B27F">
+                                <tspan x="36.4538574" y="8">2010s</tspan>
+                            </text>
+                            <line x1="0.5" y1="0.5" x2="0.5" y2="13.5" id="Line" stroke="#808080" opacity="0.5" stroke-linecap="square"></line>
+                        </g>
+                    </g>
+                    <g id="Decade" transform="translate(200, 0)">
+                        <g id="Group" transform="translate(0, 14)">
+                            <rect id="Rectangle" x="0" y="1" width="100" height="185"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="0" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="10" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="20" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="30" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="40" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="50" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="60" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="70" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="80" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="90" y="0.65034965" width="10" height="185.34965"></rect>
+                            <line x1="0.5" y1="0.325174825" x2="0.5" y2="185.674825" id="Line" stroke="#808080" opacity="0.5" stroke-linecap="square"></line>
+                            <line x1="1.5" y1="0.325174825" x2="99.5" y2="0.325174825" id="Line-2" stroke="#808080" opacity="0.5" stroke-linecap="square"></line>
+                        </g>
+                        <g id="Group-2">
+                            <text id="80s" font-family="Menlo-Regular, Menlo" font-size="9" font-weight="normal" fill="#00B27F">
+                                <tspan x="36.4538574" y="8">2000s</tspan>
+                            </text>
+                            <line x1="0.5" y1="0.5" x2="0.5" y2="13.5" id="Line" stroke="#808080" opacity="0.5" stroke-linecap="square"></line>
+                        </g>
+                    </g>
+                    <g id="Decade" transform="translate(100, 0)">
+                        <g id="Group" transform="translate(0, 14)">
+                            <rect id="Rectangle" x="0" y="1" width="100" height="185"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="0" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="10" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="20" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="30" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="40" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="50" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="60" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="70" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="80" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="90" y="0.65034965" width="10" height="185.34965"></rect>
+                            <line x1="0.5" y1="0.325174825" x2="0.5" y2="185.674825" id="Line" stroke="#808080" opacity="0.5" stroke-linecap="square"></line>
+                            <line x1="1.5" y1="0.325174825" x2="99.5" y2="0.325174825" id="Line-2" stroke="#808080" opacity="0.5" stroke-linecap="square"></line>
+                        </g>
+                        <g id="Group-2">
+                            <text id="80s" font-family="Menlo-Regular, Menlo" font-size="9" font-weight="normal" fill="#00B27F">
+                                <tspan x="36.4538574" y="8">1990s</tspan>
+                            </text>
+                            <line x1="0.5" y1="0.5" x2="0.5" y2="13.5" id="Line" stroke="#808080" opacity="0.5" stroke-linecap="square"></line>
+                        </g>
+                    </g>
+                    <g id="Decade">
+                        <g id="Group" transform="translate(0, 14)">
+                            <rect id="Rectangle" x="0" y="1" width="100" height="185"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="0" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="10" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="20" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="30" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="40" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="50" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="60" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="70" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#000000" x="80" y="0.65034965" width="10" height="185.34965"></rect>
+                            <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="90" y="0.65034965" width="10" height="185.34965"></rect>
+                            <line x1="0.5" y1="0.325174825" x2="0.5" y2="185.674825" id="Line" stroke="#808080" opacity="0.5" stroke-linecap="square"></line>
+                            <line x1="1.5" y1="0.325174825" x2="99.5" y2="0.325174825" id="Line-2" stroke="#808080" opacity="0.5" stroke-linecap="square"></line>
+                        </g>
+                        <g id="Group-2">
+                            <text id="80s" font-family="Menlo-Regular, Menlo" font-size="9" font-weight="normal" fill="#00B27F">
+                                <tspan x="36.4538574" y="8">1980s</tspan>
+                            </text>
+                            <line x1="0.5" y1="0.5" x2="0.5" y2="13.5" id="Line" stroke="#808080" opacity="0.5" stroke-linecap="square"></line>
+                        </g>
+                    </g>
+                </g>
+                <g id="Skill" transform="translate(45, 185)">
+                    <rect id="Rectangle" fill="#00CC99" x="0" y="0" width="60" height="15"></rect>
+                    <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="5" y="10">Basic</tspan>
+                    </text>
+                </g>
+                <g id="Sinclair" transform="translate(105, 185)">
+                    <rect id="Rectangle" fill-opacity="0.9" fill="#FFFFFF" x="0" y="0" width="300" height="15"></rect>
+                    <text id="First-variables,-con" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#00B299">
+                        <tspan x="9" y="10">First variables, conditionals and loops on a Sinclair ZX81.</tspan>
+                    </text>
+                </g>
+                <g id="Sinclair" transform="translate(55, 85)">
+                    <rect id="Rectangle" fill-opacity="0.9" fill="#FFFFFF" x="0" y="0" width="120" height="15"></rect>
+                    <text id="First-website-in-199" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" letter-spacing="-0.1" fill="#00B280">
+                        <tspan x="9" y="10">First website in 1997.</tspan>
+                    </text>
+                </g>
+                <g id="Skill" transform="translate(205, 165)">
+                    <rect id="Rectangle" fill="#00CC99" x="0" y="0" width="70" height="15"></rect>
+                    <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="5" y="10">ASP</tspan>
+                    </text>
+                </g>
+                <g id="Skill" transform="translate(205, 145)">
+                    <rect id="Rectangle" fill="#00CC99" x="0" y="0" width="70" height="15"></rect>
+                    <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="5" y="10">Java</tspan>
+                    </text>
+                </g>
+                <g id="Skill" transform="translate(225, 125)">
+                    <rect id="Rectangle" fill="#00CC99" x="0" y="0" width="280" height="15"></rect>
+                    <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="5" y="10">PHP / Laravel</tspan>
+                    </text>
+                </g>
+                <g id="Skill" transform="translate(335, 105)">
+                    <rect id="Rectangle" fill="#00CC99" x="0" y="0" width="170" height="15"></rect>
+                    <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="5" y="10">Ruby On Rails</tspan>
+                    </text>
+                </g>
+                <g id="Skill" transform="translate(175, 85)">
+                    <rect id="Rectangle" fill="#00CC99" x="0" y="0" width="330" height="15"></rect>
+                    <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="5" y="10">HTML</tspan>
+                    </text>
+                </g>
+                <g id="Skill" transform="translate(205, 65)">
+                    <rect id="Rectangle" fill="#0099FF" x="0" y="0" width="300" height="15"></rect>
+                    <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="5" y="10">JavaScript</tspan>
+                    </text>
+                </g>
+                <g id="Skill" transform="translate(365, 45)">
+                    <rect id="Rectangle" fill="#0099FF" x="0" y="0" width="140" height="15"></rect>
+                    <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="5" y="10">React</tspan>
+                    </text>
+                </g>
+                <g id="Skill" transform="translate(395, 25)">
+                    <rect id="Rectangle" fill="#0099FF" x="0" y="0" width="110" height="15"></rect>
+                    <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="5" y="10">TypeScript</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
