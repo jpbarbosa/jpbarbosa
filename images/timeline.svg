@@ -143,8 +143,9 @@
                 <g id="Sinclair" transform="translate(210, 370)">
                     <rect id="Rectangle" fill-opacity="0.9" fill="#FFFFFF" x="0" y="0" width="600" height="30"></rect>
                     <text id="First-variables,-con" font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" fill="#00B299">
-                        <tspan x="18" y="21">First variables, conditionals and loops on a Sinclair ZX81.</tspan>
+                        <tspan x="18" y="21">First variables, conditionals and loops on <tspan fill="#0099FF">a Sinclair ZX81.</tspan></tspan>
                     </text>
+                    <line x1="433" y1="28" x2="576" y2="28" id="Line" stroke="#0099FF" stroke-width="2"></line>
                 </g>
                 <g id="Sinclair" transform="translate(110, 170)">
                     <rect id="Rectangle" fill-opacity="0.9" fill="#FFFFFF" x="0" y="0" width="240" height="30"></rect>
