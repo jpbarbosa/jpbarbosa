@@ -134,69 +134,82 @@
                         </g>
                     </g>
                 </g>
-                <g id="Skill" transform="translate(90, 370)">
+                <g id="Basic" transform="translate(90, 370)">
                     <rect id="Rectangle" fill="#00CC99" x="0" y="0" width="120" height="30"></rect>
-                    <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <text font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" fill="#FFFFFF">
                         <tspan x="10" y="21">Basic</tspan>
                     </text>
                 </g>
                 <g id="Sinclair" transform="translate(210, 370)">
                     <rect id="Rectangle" fill-opacity="0.9" fill="#FFFFFF" x="0" y="0" width="600" height="30"></rect>
-                    <text id="First-variables,-con" font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" fill="#00B299">
-                        <tspan x="18" y="21">First variables, conditionals and loops on <tspan fill="#0099FF">a Sinclair ZX81.</tspan></tspan>
+                    <text id="First-variables" font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal">
+                        <tspan x="18" y="21" fill="#00B299">First variables, conditionals and loops on </tspan>
+                        <tspan x="432.210938" y="21" fill="#0099FF">a Sinclair ZX81.</tspan>
                     </text>
-                    <line x1="433" y1="28" x2="576" y2="28" id="Line" stroke="#0099FF" stroke-width="2"></line>
+                    <rect id="Rectangle" fill="#0099FF" x="433" y="27" width="143" height="2"></rect>
                 </g>
-                <g id="Sinclair" transform="translate(110, 170)">
+                <g id="First-Website" transform="translate(110, 170)">
                     <rect id="Rectangle" fill-opacity="0.9" fill="#FFFFFF" x="0" y="0" width="240" height="30"></rect>
                     <text id="First-website-in-199" font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" letter-spacing="-0.200000003" fill="#00B280">
                         <tspan x="18" y="21">First website in 1997.</tspan>
                     </text>
                 </g>
-                <g id="Skill" transform="translate(410, 330)">
+                <g id="ASP" transform="translate(410, 330)">
                     <rect id="Rectangle" fill="#00CC99" x="0" y="0" width="140" height="30"></rect>
                     <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" fill="#FFFFFF">
                         <tspan x="10" y="21">ASP</tspan>
                     </text>
                 </g>
-                <g id="Skill" transform="translate(410, 290)">
+                <g id="Java" transform="translate(410, 290)">
                     <rect id="Rectangle" fill="#00CC99" x="0" y="0" width="140" height="30"></rect>
                     <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" fill="#FFFFFF">
                         <tspan x="10" y="21">Java</tspan>
                     </text>
                 </g>
-                <g id="Skill" transform="translate(450, 250)">
+                <g id="PHP-Laravel" transform="translate(450, 250)">
                     <rect id="Rectangle" fill="#00CC99" x="0" y="0" width="560" height="30"></rect>
                     <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" fill="#FFFFFF">
                         <tspan x="10" y="21">PHP / Laravel</tspan>
                     </text>
                 </g>
-                <g id="Skill" transform="translate(670, 210)">
+                <g id="Ruby-On-Rails" transform="translate(670, 210)">
                     <rect id="Rectangle" fill="#00CC99" x="0" y="0" width="340" height="30"></rect>
                     <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" fill="#FFFFFF">
                         <tspan x="10" y="21">Ruby On Rails</tspan>
                     </text>
                 </g>
-                <g id="Skill" transform="translate(350, 170)">
+                <g id="HTML" transform="translate(350, 170)">
                     <rect id="Rectangle" fill="#00CC99" x="0" y="0" width="660" height="30"></rect>
                     <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" fill="#FFFFFF">
                         <tspan x="10" y="21">HTML</tspan>
                     </text>
                 </g>
-                <g id="Skill" transform="translate(410, 130)">
+                <g id="JavaScript" transform="translate(410, 130)">
                     <rect id="Rectangle" fill="#0099FF" x="0" y="0" width="600" height="30"></rect>
                     <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" fill="#FFFFFF">
                         <tspan x="10" y="21">JavaScript</tspan>
                     </text>
                 </g>
-                <g id="Skill" transform="translate(730, 90)">
-                    <rect id="Rectangle" fill="#0099FF" x="0" y="0" width="280" height="30"></rect>
+                <g id="VanJS" transform="translate(880, 90)">
+                    <rect id="Rectangle" fill="#F44336" x="0" y="0" width="130" height="30"></rect>
+                    <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="10" y="21">VanJS</tspan>
+                    </text>
+                </g>
+                <g id="React" transform="translate(730, 90)">
+                    <rect id="Rectangle" fill="#0099FF" x="0" y="0" width="140" height="30"></rect>
                     <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" fill="#FFFFFF">
                         <tspan x="10" y="21">React</tspan>
                     </text>
                 </g>
-                <g id="Skill" transform="translate(790, 50)">
-                    <rect id="Rectangle" fill="#0099FF" x="0" y="0" width="220" height="30"></rect>
+                <g id="JSDoc" transform="translate(920, 50)">
+                    <rect id="Rectangle" fill="#F44336" x="0" y="0" width="90" height="30"></rect>
+                    <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="10" y="21">JSDoc</tspan>
+                    </text>
+                </g>
+                <g id="TypeScript" transform="translate(790, 50)">
+                    <rect id="Rectangle" fill="#0099FF" x="0" y="0" width="120" height="30"></rect>
                     <text id="Basic" font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" fill="#FFFFFF">
                         <tspan x="10" y="21">TypeScript</tspan>
                     </text>
